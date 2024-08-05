@@ -7,10 +7,7 @@ Refer to the question doc for more details:
 as we dive into creating a fully functional stopwatch web application using HTML, CSS, and JavaScript. Learn step-by-step how to design the user interface, implement the logic for starting, pausing, and resetting the stopwatch, and gain a deeper understanding of web development concepts along the way. Whether you're a beginner or looking to enhance your coding skills, this hands-on project will help you sharpen your front-end development abilities. Watch now and become a pro at building interactive web applications!
 
 ## Website Host link:
-https://opabhig.github.io/Frontend-test-Stopwatch.github.io/
 
-## Video:
-https://youtu.be/ixAQx2gJT9s
 
 
 ## Question Doc
