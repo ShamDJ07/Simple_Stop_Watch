@@ -18,5 +18,5 @@ Creativity and design (CSS and others) (Max Score 10)
 Code (comments, structuring, functions/variable namings) (Max Score 10)
 All features (Max Score 30)
 
-![Screenshot 2023-08-14 155140](https://github.com/OpAbhiG/Frontend-test-Stopwatch.github.io/assets/110295591/9b6ff5e4-3c0c-42b8-b229-0cfa901e08ce)
+![image alt](https://github.com/ShamDJ07/Simple_Stop_Watch/blob/c760def8a7e6a0a7e52d2bcc73d76b385b89090b/Screenshot%202024-08-05%20212925.png)
 
