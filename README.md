@@ -11,12 +11,7 @@ https://shamdj07.github.io/Simple_Stop_Watch/
 
 
 
-## Question Doc
 
-The project will be evaluated by the n following parameters -
-Creativity and design (CSS and others) (Max Score 10)
-Code (comments, structuring, functions/variable namings) (Max Score 10)
-All features (Max Score 30)
 
 ![image alt](https://github.com/ShamDJ07/Simple_Stop_Watch/blob/c760def8a7e6a0a7e52d2bcc73d76b385b89090b/Screenshot%202024-08-05%20212925.png)
 
